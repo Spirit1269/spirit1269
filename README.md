@@ -30,11 +30,16 @@ I'm Kimberly D. Jenkins — a US Army Veteran, Software Developer, and Founder o
 
 ## 📦 Projects in Progress
 
-### ✅ Check-In & Availability App
-Blazor Server-side app tracking telework and accountability for the USMC.
-
 ### 🧠 TriPowers LLC Website
 Custom C# backend + React frontend resume portal for federal hiring and staffing.
+
+### Microsoft Certified: Azure Developer Associate
+---
+
+## 📦 Projects Completed
+
+### ✅ Check-In & Availability App
+Blazor Server-side app tracking telework and accountability for the USMC.
 
 ### 📋 F&E IG Checklist App
 Power Platform + Dataverse app helping internal teams stay inspection-ready.
