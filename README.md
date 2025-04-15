@@ -25,6 +25,7 @@ I'm Kimberly D. Jenkins — a US Army Veteran, Software Developer, and Founder o
 ![TFS](https://img.shields.io/badge/-TFS-007ACC?style=flat&logo=azure-devops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-3776AB?style=flat&logo=angular&logoColor=white)
 
 ---
 
@@ -38,7 +39,7 @@ Custom C# backend + React frontend resume portal for federal hiring and staffing
 
 ## 📦 Projects Completed
 
-### ✅ Check-In & Availability App
+### ✅ Accountability and Reporting App
 Blazor Server-side app tracking telework and accountability for the USMC.
 
 ### 📋 F&E IG Checklist App
